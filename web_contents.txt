@@ -1,2 +1,0 @@
-mkdir /webroot
-echo "hi there" > /webroot/index.html
